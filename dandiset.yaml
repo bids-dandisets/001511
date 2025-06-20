@@ -32,7 +32,7 @@ assetsSummary:
   - ElectrodeGroup
   - Units
 citation: Caslin, Asha (2025) Optically tagged oxytocin neuron recordings from female
-  mouse PVN (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001511/draft
+  mouse PVN (Version 0.250620.1551) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001511/0.250620.1551
 contributor:
 - affiliation: []
   email: ac7878@nyu.edu
@@ -42,12 +42,14 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2025-06-19T19:45:52.295854+00:00'
-datePublished: '2025-06-20T16:10:20.375713+00:00'
-description: 'Female mice (either Ai80F;Oxt-Flp or Oxt-Cre with Cre-dependent ChR2
+datePublished: '2025-06-20T15:51:07.582535+00:00'
+description: Female mice (either Ai80F;Oxt-Flp or Oxt-Cre with Cre-dependent ChR2
   virus injection) were implanted with silicon probes from either Cambridge Neurotechnology
-  or Neuronexus. Mice were recorded during pup retrieval. '
+  or Neuronexus. Mice were recording during pup retrieval, free social interaction,
+  or social preference tests.
+doi: 10.48324/dandi.001511/0.250620.1551
 ethicsApproval: []
-id: DANDI:001511/draft
+id: DANDI:001511/0.250620.1551
 identifier: DANDI:001511
 keywords:
 - maternal
@@ -56,16 +58,16 @@ keywords:
 license:
 - spdx:CC0-1.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001511/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001511/0.250620.1551/assets.yaml
 name: Optically tagged oxytocin neuron recordings from female mouse PVN
 publishedBy:
-  endDate: '2025-06-20T16:10:20.375713+00:00'
-  id: urn:uuid:f488a865-fda3-498c-9e95-767bf3ebac92
+  endDate: '2025-06-20T15:51:07.582535+00:00'
+  id: urn:uuid:9bbc4626-3135-47ef-868e-654aaa76355a
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2025-06-20T16:10:20.375713+00:00'
+  startDate: '2025-06-20T15:51:07.582535+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:7cd32d6a-480f-464f-8558-9d33fd2a7a8d
+  - id: urn:uuid:bd4e0ebd-ce21-4b20-a599-b771ee4be1d0
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
@@ -76,6 +78,6 @@ schemaKey: Dandiset
 schemaVersion: 0.6.10
 studyTarget:
 - 'What are the temporal dynamics of oxytocin neurons in the PVN '
-url: https://dandiarchive.org/dandiset/001511/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001511/0.250620.1551
+version: 0.250620.1551
 wasGeneratedBy: []
