@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "Female mice (either Ai80F;Oxt-Flp or Oxt-Cre with Cre-dependent ChR2 virus injection) were implanted with silicon probes from either Cambridge Neurotechnology or Neuronexus. Mice were recorded during pup retrieval. ",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Caslin, Asha"
+    ],
     "License": "CC0-1.0",
     "GeneratedBy": [
         {
